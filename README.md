@@ -12,13 +12,12 @@ My previous career in healthcare has given me a unique perspective, equipping me
 Currently, I am exploring opportunities where my diverse background can intersect to contribute to innovative solutions that positively impact users.
 </p>
 
-
+- 😄 Pronouns: she/her
 - 📍 Currently based in Seattle, WA
 - 🌱 Looking for job opportunities to continue to grow as an ever-evolving software engineer and be part of a collaborative team.
 - 🤔 Curious about backend and full-stack technologies contributing to meaningful impact.
-- 🩷 Passionate about community, family, health, exercise, travel, outdoors, and dogs.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a proud Puerto Rican that grew up as an Army Brat. I am passionate about constantly challenging myself mentally, physically, emotionally and constantly striving to be better.
+- 🩷 Passionate about community, family, health, travel, outdoors, exercise, and dogs.
+- ⚡ Fun fact: I am a proud Puerto Rican woman that grew up as an Army Brat, constantly adapting to new environments.
 
 <h3 align='center'>
 My Tech Stack and Skills:
