@@ -20,7 +20,7 @@ Currently, I am exploring opportunities where my diverse background can intersec
 - ⚡ Fun fact: I am a proud Puerto Rican woman that grew up as an Army Brat, constantly adapting to new environments.
 
 <h3 align='center'>
-My Tech Stack and Skills:
+Tech Stack:
 </h3>
 
 <p align='center'>
