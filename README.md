@@ -17,7 +17,7 @@ Currently, I am exploring opportunities where my diverse background can intersec
 - 🌱 Looking for job opportunities to continue to grow as an ever-evolving software engineer and be part of a collaborative team.
 - 🤔 Curious about backend and full-stack technologies contributing to meaningful impact.
 - 🩷 Passionate about community, family, health, travel, outdoors, exercise, and dogs.
-- ⚡ Fun fact: I am a proud Puerto Rican woman that grew up as an Army Brat, constantly adapting to and embracing new environments and interacting with people from diverse backgrounds.
+- ⚡ Fun fact: I am a proud Puerto Rican woman that grew up as an Army brat, constantly adapting to and embracing new environments and interacting with people from diverse backgrounds.
 
 <h3 align='center'>
 Tech Stack:
