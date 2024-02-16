@@ -8,7 +8,7 @@
 I am a dedicated software engineer with a passion for crafting maintainable, readable code and building well-designed systems. I thrive in collaborative environments, eagerly embrace the challenge of learning new technologies, and find motivation in making a meaningful impact.
 </p>
 <p align='center'>
-My previous career in healthcare has given me a unique perspective, equipping me with strong analytical skills, adaptability, composure in stressful situations, and effective collaboration and communication skills. These qualities have transformed me into an empathetic and dynamic developer. 
+My previous career in healthcare has given me a unique perspective, equipping me with strong analytical skills, adaptability, composure in stressful situations, and effective collaboration and communication skills. These qualities have transformed me into an dynamic and empathetic developer. 
 Currently, I am exploring opportunities where my diverse background can intersect to contribute to innovative solutions that positively impact users.
 </p>
 
