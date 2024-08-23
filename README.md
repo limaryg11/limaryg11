@@ -12,11 +12,15 @@ My previous career in healthcare has given me a unique perspective, equipping me
 Currently, I am exploring opportunities where my diverse background can intersect to contribute to innovative solutions that positively impact users.
 </p>
 
+<p align='center'>
+My recent projects at the Allen Institute for Brain Science are proprietary and cannot be shared on GitHub. However, I have gained and continue to gain valuable experience through these projects, and I would be happy to discuss them in detail—please feel free to ask me about what I've been working on!
+</p>
+
 - 😄 Pronouns: she/her
-- 📍 Currently based in Seattle, WA
+- 📍 Currently based in Seattle, WA - but willing to relocate. 
 - 🌱 Looking for job opportunities to continue to grow as an ever-evolving software engineer and be part of a collaborative team.
 - 🤔 Curious about backend and full-stack technologies contributing to meaningful impact.
-- 🩷 Passionate about community, family, health, travel, outdoors, exercise, and dogs.
+- 🩷 Passionate about technology, community, family, health, travel, outdoors, exercise, and dogs.
 - ⚡ Fun facts: I'm Puerto Rican, I grew up in an Army household, and I love to surf.
 
 <h3 align='center'>
