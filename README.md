@@ -13,7 +13,7 @@ Currently, I am exploring opportunities where my diverse background can intersec
 </p>
 
 <p align='center'>
-My most recent projects have been at the Allen Institute for Brain Science, so all of my recent work is proprietary and cannot be shared on GitHub. However, I have gained and continue to gain valuable experience through these projects, and I would be happy to discuss them in detail—please feel free to ask me about what I've been working on!
+My most recent projects have been at the Allen Institute for Brain Science, so all of my recent work is proprietary and cannot be shared on my personal GitHub. However, I have gained and continue to gain valuable experience through these projects, and I would be happy to discuss them in detail—please feel free to ask me about what I've been working on!
 </p>
 
 - 😄 Pronouns: she/her
